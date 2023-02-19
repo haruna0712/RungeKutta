@@ -1,0 +1,9 @@
+﻿  scatlen.cpp
+C:\Users\harun\source\repos\RungeKutta_scatlen\Project1\scatlen.cpp(42,16): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\harun\source\repos\RungeKutta_scatlen\Project1\scatlen.cpp(40,12): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Project1.vcxproj -> C:\Users\harun\source\repos\RungeKutta_scatlen\x64\Release\Project1.exe

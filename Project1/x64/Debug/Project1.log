@@ -1,0 +1,7 @@
+﻿  scatlen.cpp
+C:\Users\harun\source\repos\diff_eq_numerical\Project1\scatlen.cpp(49,16): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\harun\source\repos\diff_eq_numerical\Project1\scatlen.cpp(48,35): warning C4101: 'phi_old': ローカル変数は 1 度も使われていません。
+C:\Users\harun\source\repos\diff_eq_numerical\Project1\scatlen.cpp(47,12): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+C:\Users\harun\source\repos\diff_eq_numerical\Project1\scatlen.cpp(47,15): warning C4101: 'n': ローカル変数は 1 度も使われていません。
+C:\Users\harun\source\repos\diff_eq_numerical\Project1\scatlen.cpp(47,24): warning C4101: 'color': ローカル変数は 1 度も使われていません。
+  Project1.vcxproj -> C:\Users\harun\source\repos\diff_eq_numerical\x64\Debug\Project1.exe
